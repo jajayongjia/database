@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.46">
+  <bounds minlon="-113.71388" minlat="53.39540" maxlon="-113.27152" maxlat="53.71592" origin="0.46"/>
+  <node id="29770958" version="5" timestamp="2014-04-12T21:14:03Z" uid="239998" user="Sundance" changeset="21654110" lat="53.5714699" lon="-113.6278968"/>
+  <node id="29770959" version="3" timestamp="2014-04-12T21:08:44Z" uid="239998" user="Sundance" changeset="21654018" lat="53.571918" lon="-113.6323071"/>
+  <node id="29811182" version="28" timestamp="2017-11-11T18:48:52Z" uid="6511217" user="Arctic gnome" changeset="53697887" lat="53.535411" lon="-113.507996">
+    <tag k="admin_level" v="8"/>
+    <tag k="capital" v="4"/>
+    <tag k="ele" v="645"/>
+    <tag k="is_in" v="Alberta;Canada"/>
+    <tag k="is_in:continent" v="North America"/>
+    <tag k="is_in:country" v="Canada"/>
+    <tag k="is_in:country_code" v="CA"/>
+    <tag k="is_in:iso_3166_2" v="CA-AB"/>
+    <tag k="is_in:state" v="Alberta"/>
+    <tag k="is_in:state_code" v="AB"/>
+    <tag k="name" v="Edmonton"/>
+    <tag k="name:ar" v="إدمونتون"/>
+    <tag k="name:de" v="Edmonton"/>
+    <tag k="name:en" v="Edmonton"/>
+    <tag k="name:fr" v="Edmonton"/>
+    <tag k="name:ru" v="Эдмонтон"/>
+    <tag k="name:uk" v="Едмонтон"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="928182"/>
+    <tag k="state_capital" v="yes"/>
+    <tag k="wikidata" v="Q2096"/>
+    <tag k="wikipedia" v="en:Edmonton"/>
+  </node>
+  <way id="336758065" version="3" timestamp="2017-09-06T18:01:32Z" uid="6511217" user="Arctic gnome" changeset="51789291">
+    <nd ref="651244271"/>
+    <nd ref="651244272"/>
+    <nd ref="3441794532"/>
+    <nd ref="651244273"/>
+    <nd ref="651244274"/>
+    <nd ref="3293394327"/>
+    <nd ref="3117153980"/>
+    <nd ref="651244254"/>
+    <nd ref="3441794539"/>
+    <nd ref="651244255"/>
+    <nd ref="651244258"/>
+    <nd ref="3117153985"/>
+    <nd ref="651244270"/>
+    <nd ref="651244271"/>
+    <tag k="building" v="university"/>
+    <tag k="name" v="Athabasca Hall"/>
+    <tag k="short_name" v="ATH"/>
+    </way>
+  <way id="73297011" version="1" timestamp="2010-08-19T20:45:12Z" uid="86952" user="xixi" changeset="5538569">
+    <nd ref="869308025"/>
+    <nd ref="869329192"/>
+    <tag k="source" v="CanVec 6.0 - NRCan"/>
+    <tag k="addr:interpolation" v="odd"/>
+  </way>
+  <way id="73297013" version="1" timestamp="2010-08-19T20:45:13Z" uid="86952" user="xixi" changeset="5538569">
+    <nd ref="869311469"/>
+    <nd ref="869325165"/>
+    <tag k="source" v="CanVec 6.0 - NRCan"/>
+    <tag k="addr:interpolation" v="odd"/>
+  </way>
+  </osm>

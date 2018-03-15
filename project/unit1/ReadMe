@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+osmosis --read-pbf ~/mnt/d/Study/CMPUT391/assignment/assignment1/alberta_latest_osm --bounding-box bottom=53.3954049 left=-113.7138802 top=53.71591885 right=-113.2715238 --write-xml edmonton.osm
+=======
+
+bin/osmosis --read-pbf  /Users/yongjiahuang/Desktop/CMPUT391/team56/project/unit1/alberta-latest.osm.pbf --bounding-box bottom=53.3954049 left=-113.7138802 top=53.71591885 right=-113.2715238 --write-xml edmonton.osm
+>>>>>>> eef3788a90c88fdc3a5559c80de76c77e3eb8d74

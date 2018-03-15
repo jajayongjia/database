@@ -1,0 +1,18 @@
+gcc -g q1.c -lm -o q1.out sqlite3.c -lpthread -ldl
+./q1.out edmonton.db id1=234515978 id2=234520861
+
+gcc -g q2.c -lm -o q2.out sqlite3.c -lpthread -ldl
+./q2.out edmonton.db source=Bing barrier=block
+
+gcc -g q3.c -lm -o q3.out sqlite3.c -lpthread -ldl
+./q3.out edmonton.db wayid=26013397
+
+gcc -g q4.c -lm -o q4.out sqlite3.c -lpthread -ldl
+./q4.out edmonton.db lit=yes layer=1
+
+
+gcc -g q5.c -lm -o q5.out sqlite3.c -lpthread -ldl
+./q5.out edmonton.db node.tsv
+
+gcc -g q6.c -lm -o q6.out sqlite3.c -lpthread -ldl
+./q6.out edmonton.db way.tsv
